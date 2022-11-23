@@ -1,11 +1,12 @@
 import java.util.ArrayList;
 import java.util.Scanner;
 /**
- * The function reverses a string.
+ * The function that calculates the palindrome
+ * Palindrome: number that is the same from beginning or from the end.
  *
  * @author  Yiyun Qin
  * @version 1.0
- * @since 2022-11-13
+ * @since 2022-11-22
  *
  */
 
